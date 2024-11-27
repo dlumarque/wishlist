@@ -13,7 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
 7. new shoes ($150-250) — like the [onitsuka tiger](https://www.farfetch.com/jp/shopping/men/onitsuka-tiger-mexico-66-beige-grass-green-sneakers-item-21932949.aspx?storeid=14140)? if u manage to find in the US or ship from japan.  Japanese shoe size = 28  // US shoe size = 10, sometimes 9.5 tbh
 8. a replacement casio, [metal](https://www.amazon.com/Casio-A158WA-1-Water-Resistant-Digital/dp/B000GAYQJ0/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Zp_gheA0o54tt4tqf2oiNYVA-G1q_TQo0cXuS_Vl0VhCuM76_Q5VqD5ueOunTrfoW1NqyTelf3jVdCz0C62ArY2olah8IPYZeggltRzwrJeUQJ3CNOgdSsyuGV0wQbZxBheXP8qh0K5lrG7OpOkXN6AQOvkCMXXjOn5GYTFdv5X1CAqDAuPClodndjKWIiTbqImaoOSk1A_BjoTSEeyPJ1x0XlZ4QHsVFQsSgwnmEuimhon3J9QKvsmyVP9x7apkfvbXRcKoM8eew79Fw0bk7WRKVsjTVJIui_l-jooZtHk.FZBRQtYil5WEul72HVN4wGI04_A_sdTLS5FSIUJWrsk&dib_tag=se&keywords=casio+metal&qid=1732713822&sr=8-1) or [blue](https://www.amazon.com/dp/B086RQT2KC/?coliid=I31E9B4JAXK2K0&colid=294UA2EB5KUP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) ($20-30)— i routinely lose mine. 
 9. a journal (max $40) — always appreciate another thing to write in. Lined or plain blank paper is okay. A lined one I’d use for workout tracking, a blank one I’d use for drawing or freeform ideas. or i saw [this (kinda overpriced) one](https://sprouht.com/products/goal-setting-journal) from the youtube guy Sprouht for life planning. 
- 
+
+CLOTHING SIZES:  Shirts/longsleeves can be L/XL. I'd rather have too big than too small. Pants/Shorts: M/L || Waist 30-33 Inseam/Length 32-35. I think for dress shirts my neck is like 15.5-16".
+Shoe size 9.5-10 in US, 42-44 European, 27.5-28 Japan.
+
 *prices are my best guess or what should be reasonable for each. If u decide to make the piano my gift, it might end up being more than $100 if the case is rly pricey or if a different airlines charges more for baggage. plus there's the hassle of getting the case early and then traveling with it. only do that if u really want to, but know that i would love u lots. 
 `;
   
